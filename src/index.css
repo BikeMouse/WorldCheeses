@@ -1,0 +1,75 @@
+body{
+  font-family: 'Inter',sans-serif;
+}
+
+.Header {
+  background-color: #F55A5A;
+  display: flex;
+  justify-content: center;
+  gap: 7px;
+  align-items: center;
+  height: 55px;
+}
+
+.Header > h1 {
+  font-size: 18px;
+  letter-spacing: -0.075em;
+  font-weight: 500;
+  color: #FFF;
+}
+
+.CardImg{
+  width: 168px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 5px;
+  border: 5px solid orange;
+}
+
+.card {
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  padding-top: 30px;
+  border: 5px solid lightseagreen;
+}
+
+.text {
+  border: 5px solid pink;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.flex {
+  border: 5px solid rebeccapurple;
+  display:flex;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.text > p {
+  font-size: 10px;
+  letter-spacing: 0.1em;
+}
+
+.text > h3 {
+  font-weight: bold;
+  font-size: 10px;
+  letter-spacing: 0.17em;
+}
+
+.text > h1 {
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 14px;
+  letter-spacing: 0.17em;
+}
+
+.text > h2 {
+  font-weight:normal;
+  font-size: 10px;
+  letter-spacing: 0.17em;
+  margin-right: 12px;
+}
