@@ -25,7 +25,7 @@ export default [
     },
     {
         id: 5,
-        coverImg: "Camembert.jpg",
+        coverImg: "Chihuahua.jpg",
         country: 'Mexico',
         name: 'Queso Chihuahua',
         continent: 'Central America',
@@ -33,6 +33,14 @@ export default [
     },
     {
         id: 5,
+        coverImg: "Halloumi.jpg",
+        country: 'Syria',
+        name: 'Halloumi',
+        continent: 'Middle East',
+        description: "Halloumi or Haloumi is a traditional Cypriot cheese made from a mixture of goat's and sheep's milk, and sometimes also cow's milk. Its texture is described as squeaky. It has a high melting point and so can easily be fried or grilled, a property that makes it a popular meat substitute. Halloumi was said to have originated from Bedouins around what is now Iraq, Syria, and Jordan and was imported to Cyprus. The methods of making halloumi likely originated sometime in the Medieval Byzantine period (AD 395–1191).",
+    },
+    {
+        id: 6,
         coverImg: "Camembert.jpg",
         country: 'France',
         name: 'Camembert',
