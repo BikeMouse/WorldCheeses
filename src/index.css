@@ -67,9 +67,16 @@ body{
   letter-spacing: 0.17em;
 }
 
-.text > h2 {
+.carrot{
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.country {
   font-weight:normal;
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 0.17em;
   margin-right: 12px;
+  padding-left: 5px;
 }
