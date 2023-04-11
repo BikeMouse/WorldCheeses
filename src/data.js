@@ -31,7 +31,7 @@ export default [
         coverImg: "Chihuahua.jpg",
         country: 'Mexico',
         name: 'Queso Chihuahua',
-        continent: 'Central America',
+        continent: 'North America',
         description: "In Mexico, queso Chihuahua is commonly recognized as a soft white cheese available in braids, balls or rounds and originates in the Mexican state of Chihuahua. In Chihuahua and in neighboring states, it is called queso menonita, after the Mennonite communities of Northern Mexico that first produced it, while elsewhere it is called queso Chihuahua.",
         maps:'https://goo.gl/maps/X1yt3WpxBYc4m1VN6',
     },
