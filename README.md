@@ -18,3 +18,4 @@ That will produce a link to a localhost port on which you can view your project 
 ### Lessons Learned
 - Base knowledge of React to create a static site
 - Creating custom components with React
+- Rendering the content of custom components using props
